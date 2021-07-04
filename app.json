@@ -9,7 +9,7 @@
          "manager",
          "Emcee"
       ],   
-   "repository": "https://github.com/prince301102/tiana-2.0",
+   "repository": "https://github.com/sahil757755/MENTAL",
    "addons": [
       {
          "options": {
@@ -174,7 +174,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/prince_3011"
+         "value": "https://t.me/sahil_prajapat"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
